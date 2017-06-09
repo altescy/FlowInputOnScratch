@@ -4,3 +4,9 @@ Using this application, you can use Flow input on Scratch.
 
 # System Overview
 ![overview](https://github.com/altescy/FlowInputOnScratch/blob/master/workflow-en.png)
+
+# Language Model
+Language Model used in this application is trained by the following application:
+https://github.com/chainer/chainer/tree/master/examples/ptb
+
+After training, put the trained model file into ``languagemodel/model''.
