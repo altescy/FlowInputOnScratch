@@ -1,8 +1,19 @@
 # Flow Input on Scratch
+
+
 SwiftKey Flow is an input method that allows you to write by gliding your finger on the keyboard.
 Using this application, you can use Flow input on Scratch.
 
 - SwiftKey: https://swiftkey.com/
+- Scratch: https://scratch.mit.edu/
+
+# Usage
+- Open 'SwiftKey.sb2' on Scratch.
+- execute 'swiftkey.py'
+```
+python swiftkey.py
+```
+
 
 # System Overview
 ![overview](https://github.com/altescy/FlowInputOnScratch/blob/master/workflow-en.png)
