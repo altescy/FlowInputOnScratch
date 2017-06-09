@@ -1,0 +1,4 @@
+blockext==0.1.0
+chainer==1.23.0
+numpy==1.12.1
+pandas==0.20.1

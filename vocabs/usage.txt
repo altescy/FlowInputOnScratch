@@ -1,0 +1,5 @@
+﻿[ USAGE ]
+	1. 単語が開業で区切られた語彙ファイルをcleanする
+		$ python clean.py -f [ 語彙ファイル ]
+	2. keyconfデータを元に語彙ファイル中の単語の軌跡データを作成する
+    		$ python make_templates.py -v [ 語彙ファイル ] -k [ keyconf file ]

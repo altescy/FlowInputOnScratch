@@ -1,0 +1,8 @@
+{
+    "extensionName": "Loc Logger",
+    "extensionPort": 5678,
+    "blockSpecs": [[" ", "init log", "init_log"],
+                   [" ", "add loc %s", "add_loc"],
+                   [" ", "save", "save"]],
+    "menus": {}
+}

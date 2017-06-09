@@ -1,0 +1,18 @@
+{
+    "extensionName": "LocusRecognizer",
+    "extensionPort": 5678,
+    "blockSpecs": [[" ", "append x: %n, y:%n", "append"],
+                   [" ", "reset", "reset"],
+                   [" ", "recognize", "recognize"],
+                   ["r", "completed", "completed"],
+                   ["r", "first", "get_first"],
+                   ["r", "second", "get_second"],
+                   ["r", "third", "get_third"],
+                   [" ", "change upper", "change_upper"],
+                   [" ", "change lower", "change_lower"],
+                   [" ", "hold on shift", "hold_on_shift"],
+                   [" ", "hold out shift", "hold_out_shift"],
+                   ["r", "shift", "shift"],
+                   ["r", "hold", "hold"],],
+    "menus": {}
+}
