@@ -7,6 +7,8 @@ Using this application, you can use Flow input on Scratch.
 - SwiftKey: https://swiftkey.com/
 - Scratch: https://scratch.mit.edu/
 
+![demo](https://github.com/altescy/FlowInputOnScratch/blob/master/demo.gif)
+
 # Usage
 - Open 'SwiftKey.sb2' on Scratch.
 - execute 'swiftkey.py'
